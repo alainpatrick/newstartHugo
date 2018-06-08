@@ -21,8 +21,8 @@ collections:
 
     fields: # The fields for each document, usually in front matter
 
-      - label: "Title"
-        name: "title"
+      - label: "Description"
+        name: "description"
         widget: "string"
 
       - label: "Publish Date"
@@ -34,17 +34,17 @@ collections:
         name: "draft"
         required: false
         widget: "boolean"
-        default: true
+        default: false
 
-      - label: "Categories"
-        name: "categories"
-        required: false
-        widget: "list"
+      - label: "Title"
+        name: "title"
+        required: true
+        widget: "string"
 
-      - label: "Keywords"
-        name: "keywords"
-        required: false
-        widget: "list"
+      - label: "Slug"
+        name: "slug"
+        required: true
+        widget: "string"
 
       - label: "Auto Thumbnail Image"
         name: "autoThumbnailImage"
