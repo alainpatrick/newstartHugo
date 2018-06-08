@@ -1,6 +1,6 @@
 ---
 title: This is raw example
-date: '2018-06-09T17:38:26+02:00'
+date: '2018-06-08T17:38:26+02:00'
 draft: true
 categories:
   - rent
