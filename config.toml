@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Cocoon Rwanda"
-baseURL = "http://localhost:1313/"
+baseURL = "https://trusting-banach-24966f.netlify.com/"
 theme = "dopetrope"
 
 [params.portfolio]
