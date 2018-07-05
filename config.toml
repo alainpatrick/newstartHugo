@@ -1,15 +1,15 @@
 languageCode = "en-us"
 title = "Cocoon Rwanda"
-baseURL = "http://trusting-banach-24966f.netlify.com/"
+baseURL = "http://localhost:1313/"
 theme = "dopetrope"
 
 [params.portfolio]
-    title = "Current"
+    title = "Appartments"
     foldername = "appartments"
     findoutmoretext = "Find out more"
 
 [params.blog]
-    title = "All Houses"
+    title = "Houses"
     viewalltext = "View All"
     foldername = "houses"
 

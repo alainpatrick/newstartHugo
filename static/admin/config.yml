@@ -9,9 +9,9 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
 
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+  - name: "houses" # Used in routes, e.g., /admin/collections/blog
 
-    label: "Post" # Used in the UI
+    label: "House" # Used in the UI
 
     folder: "content/houses" # The path to the folder where the documents are stored
 
